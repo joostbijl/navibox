@@ -1,1 +1,1 @@
-Content has been moved to https://jaxeadv.com/barbuttons
+Code has been moved to https://jaxeadv.com/barbuttons
